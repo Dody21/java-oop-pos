@@ -16,14 +16,15 @@ java-oop-pos/
 1) Database/ # File SQL untuk setup database
    - db_uas.sql
 2) program/ # Source code utama
-   - src/
-     - ctr/ # Controller (logika aplikasi)
-     - database/ # Koneksi ke database
-     - ent/ # Entity (class model data)
-     - frm/ # Form (UI Java Swing)
-     - report/ # Report generator
-     - Turtle0943.java # Main class aplikasi
-3) README.md
+   - turtle0943
+      - src/
+        - ctr/ # Controller (logika aplikasi)
+        - database/ # Koneksi ke database
+        - ent/ # Entity (class model data)
+        - frm/ # Form (UI Java Swing)
+        - report/ # Report generator
+        - Turtle0943.java # Main class aplikasi
+4) README.md
 
 ## 🛠 Teknologi yang Digunakan
 - **Java** (OOP, Swing GUI)
